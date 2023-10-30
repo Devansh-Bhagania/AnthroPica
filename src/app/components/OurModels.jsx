@@ -3,7 +3,7 @@ import React from 'react'
 const OurModels = () => {
   return (
     <>
-    <div className='h-[700px] bg-blue-400 flex flex-col'>
+    <div className='h-[700px] bg-cream flex flex-col'>
     <div className="text-6xl mx-auto text-center p-5 pt-20">
           <h1>Our Models</h1>
         </div>
@@ -11,7 +11,7 @@ const OurModels = () => {
 
 
         <div className='flex flex-row justify-center gap-10 mx-44'>
-                <div className='h-[400px] rounded-lg w-1/2 bg-white p-10'>
+                <div className='h-[400px] rounded-3xl w-1/2 bg-white p-10'>
                         {/* logo */}
                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -50,7 +50,7 @@ const OurModels = () => {
                         </div>
                 </div>
 
-                <div className='h-[400px] rounded-lg w-1/2 bg-white  p-10 '>
+                <div className='h-[400px] rounded-3xl w-1/2 bg-white  p-10 '>
                                 {/* logo */}
                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">

@@ -5,6 +5,7 @@ import Navbar from "@/app/components/Navbar"
 import HeroSlider from './components/HeroSlider'
 import TextCards from './components/TextCards'
 import OurPartners from './components/OurPartners'
+import OurModels from './components/OurModels'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
 <Navbar/>
 <HeroSlider/>
 <OurPartners/>
+<OurModels/>
 
    </>
 
